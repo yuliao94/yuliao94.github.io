@@ -55,5 +55,30 @@
   
   
   
+  <entry>
+    <title>测试示例文章——廖宇</title>
+    <link href="/2022/05/14/3/"/>
+    <url>/2022/05/14/3/</url>
+    
+    <content type="html"><![CDATA[<h2 id="测试章节"><a href="#测试章节" class="headerlink" title="测试章节"></a>测试章节</h2><p>中国万网成立于1996年，是中国领先的<a href="https://baike.baidu.com/item/%E4%BA%92%E8%81%94%E7%BD%91/199186">互联网</a>应用服务提供商。万网致力于为企业客户提供完整的互联网应用服务，服务范围涵盖基础的<a href="https://baike.baidu.com/item/%E5%9F%9F%E5%90%8D">域名</a>服务、<a href="https://baike.baidu.com/item/%E4%B8%BB%E6%9C%BA/455151">主机</a>服务、<a href="https://baike.baidu.com/item/%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1/590146">企业邮箱</a>、<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/185526">网站建设</a>、<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E8%90%A5%E9%94%80/175416">网络营销</a>、语音<a href="https://baike.baidu.com/item/%E9%80%9A%E4%BF%A1/300982">通信</a>等应用服务；以及高端的企业电子商务解决方案和顾问咨询服务。以帮助企业客户真正实现电子商务应用，提高企业的竞争能力。</p><p>中国万网研发中心拥有一支由多名<a href="https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%93%E5%AE%B6/15200267">网络安全专家</a>、软件工程专家和项目管理专家组成的专业队伍。50%以上的工程师拥有微软、ORACLE、<a href="https://baike.baidu.com/item/CISCO">CISCO</a>、HP的认证资质，申请了多项专利及近百项<a href="https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6%E8%91%97%E4%BD%9C%E6%9D%83/3348250">软件著作权</a>。中国万网构建了365天不间断的稳定运行保障体系，其服务器群分布在国内外10个顶尖IDC机房，全部机房均部署独立IP、光纤接入及线路冗余、INTEL多核服务器平台、DDT备份体系、电信级网络设备以及网络实时监控系统等，为客户提供高质量、高效率、高安全性的7x24小时专业运维保证。</p><p>中国万网拥有设施齐备、功能完善的专业级呼叫中心。万网客户服务中心和技术支持中心提供7×24小时不间断的专业的电话服务和全方位的实时智能监控。</p><p>中国万网客服中心被中国电子商会呼叫中心和客户关系管理专业委员会、亚太客服与呼叫中心联盟、客户世界机构联合评选为“2008年度中国最佳呼叫中心”。 众多<a href="https://baike.baidu.com/item/%E4%B8%96%E7%95%8C500%E5%BC%BA%E4%BC%81%E4%B8%9A">世界500强企业</a>、中国知名企业、中国各级政府、社会服务机构、中小企业和个人客户信赖万网，依托万网的服务开展自己的互联网应用服务。</p><h2 id="测试数据"><a href="#测试数据" class="headerlink" title="测试数据"></a>测试数据</h2><p>我们有以下几个观点：</p><ol><li>123</li><li>123</li><li>123</li><li>123</li><li>123</li></ol><p>我们有数据支撑：</p><table><thead><tr><th>数据</th><th>数据</th><th>数据</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td></tr></tbody></table><p>我们的数据通过以下代码运行：</p><figure class="highlight stylus"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs stylus"><span class="hljs-function"><span class="hljs-title">print</span><span class="hljs-params">(<span class="hljs-string">&quot;hello world!&quot;</span>)</span></span><br></code></pre></td></tr></table></figure><p>我们可以呈现如下效果：</p><ol><li><p><strong>加粗</strong></p></li><li><p><em>斜体</em></p></li><li><p><u>下划线</u></p></li><li><!--删除线--></li><li><!--注释--></li><li><p><a href="">超链接和图像等等</a></p></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>测试分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试标签</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
